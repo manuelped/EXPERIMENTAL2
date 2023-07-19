@@ -1,0 +1,5 @@
+print("si")
+print("mi nombre es nombre")
+print("mi edad es edad")
+print("habia una vez")
+print("no")
